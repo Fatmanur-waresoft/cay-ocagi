@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\WebApplication22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013D28CB-4069-47EC-94F9-F36929CC5A15}|WebApplication22\\deneme.csproj|c:\\users\\asus\\source\\repos\\webapplication22\\webapplication22\\controllers\\beveragescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D28CB-4069-47EC-94F9-F36929CC5A15}|WebApplication22\\deneme.csproj|solutionrelative:webapplication22\\controllers\\beveragescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeveragesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\WebApplication22\\WebApplication22\\Controllers\\BeveragesController.cs",
+              "RelativeDocumentMoniker": "WebApplication22\\Controllers\\BeveragesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\WebApplication22\\WebApplication22\\Controllers\\BeveragesController.cs",
+              "RelativeToolTip": "WebApplication22\\Controllers\\BeveragesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:14:18.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
